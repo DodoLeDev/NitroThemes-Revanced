@@ -1,0 +1,14 @@
+{
+    "name": "Nitro Theme Debug Tools",
+    "description": "A tool to know the ID of Nitro themes",
+    "authors": [
+        {
+            "name": "DodoLeDev",
+            "id": "533983252755644416"
+        }
+    ],
+    "main": "src/index.ts",
+    "vendetta": {
+        "icon": "debug"
+    }
+}
