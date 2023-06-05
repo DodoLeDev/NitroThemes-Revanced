@@ -7,7 +7,11 @@ const { default: { setShouldSyncAppearanceSettings }, saveClientTheme } = findBy
 const patches = [
     instead("canUseClientThemes", canUse, () => true),
     instead("canUsePremiumProfileCustomization", canUse, () => true),
-    saveClientTheme({backgroundGradientPresetId: 9, theme: "dark"})
+    setTimeout(() => {
+        saveClientTheme({
+            backgroundGradientPresetId: 9,
+            theme: "dark"
+        })}, 0)
 ]
 
 setShouldSyncAppearanceSettings(false)
