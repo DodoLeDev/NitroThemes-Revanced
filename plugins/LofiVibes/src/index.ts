@@ -2,7 +2,7 @@ import { findByProps } from "@vendetta/metro"
 
 const { default: { setShouldSyncAppearanceSettings }, saveClientTheme } = findByProps("saveClientTheme")
 
-const patches = [setTimeout(() => {saveClientTheme({backgroundGradientPresetId: 9})}, 0)]
+const patches = [setTimeout(() => {saveClientTheme({backgroundGradientPresetId: 6})}, 0)]
 
 setShouldSyncAppearanceSettings(false)
 
