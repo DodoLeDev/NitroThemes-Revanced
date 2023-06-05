@@ -2,7 +2,7 @@ import { findByProps } from "@vendetta/metro"
 
 const { default: { setShouldSyncAppearanceSettings }, saveClientTheme } = findByProps("saveClientTheme")
 
-const patches = [saveClientTheme({backgroundGradientPresetId: "HANAMI"})]
+const patches = [saveClientTheme({backgroundGradientPresetId: 3})]
 
 setShouldSyncAppearanceSettings(false)
 
