@@ -1,14 +1,8 @@
-# [Go to repo](https://github.com/aeongdesu/vdplugins)
+[![Nitro Themes Revanced](images/logo.png)](https://github.com/DodoLeDev/NitroThemes-Revanced)
 
-## proxied
-- [BypassNSFWGate](https://vd-plugins.github.io/proxy/aeongdesu.github.io/vdplugins/BypassNSFWGate)
-- [Dashless](https://vd-plugins.github.io/proxy/aeongdesu.github.io/vdplugins/Dashless)
-- [SlowmodeExtended](https://vd-plugins.github.io/proxy/aeongdesu.github.io/vdplugins/SlowmodeExtended)
-- [UtilCommands](https://vd-plugins.github.io/proxy/aeongdesu.github.io/vdplugins/UtilCommands)
-- [ViewRaw](https://vd-plugins.github.io/proxy/aeongdesu.github.io/vdplugins/ViewRaw)
-- [MarkAllAsRead](https://vd-plugins.github.io/proxy/aeongdesu.github.io/vdplugins/MarkAllAsRead/)
-- [UserBG](https://vd-plugins.github.io/proxy/aeongdesu.github.io/vdplugins/UserBG)
-- [Dislate Lite](https://vd-plugins.github.io/proxy/aeongdesu.github.io/vdplugins/Dislate)
+# Available themes
+<a href="https://github.com/DodoLeDev/NitroThemes-Revanced/tree/main/plugins/ChromaGlow"><img src="images/chroma_glow.png" width=300></img></a>
 
-## not proxied
-- [ ](https://aeongdesu.github.io/vdplugins/Nothing)
+## Credits
+- Thanks to the [Vendetta Team](https://github.com/vendetta-mod) for their incredible application!
+- A big thank you to [@aeongdesu](https://github.com/aeongdesu/) and his [ClientTheme](https://github.com/aeongdesu/vdplugins/tree/main/plugins/ClientTheme) plugin!
