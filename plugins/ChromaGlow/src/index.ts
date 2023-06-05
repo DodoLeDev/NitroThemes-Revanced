@@ -5,8 +5,7 @@ const { default: { setShouldSyncAppearanceSettings }, saveClientTheme } = findBy
 const patches = [
     setTimeout(() => {
         saveClientTheme({
-            backgroundGradientPresetId: 9,
-            theme: "dark"
+            backgroundGradientPresetId: 9
         })}, 0)
 ]
 
