@@ -1,0 +1,1 @@
+(function(n,e){"use strict";const{default:{setShouldSyncAppearanceSettings:t},saveClientTheme:o}=e.findByProps("saveClientTheme"),s=[setTimeout(function(){o({backgroundGradientPresetId:10})},0)];t(!1);const a=function(){for(const c of s)c()};return n.onUnload=a,n})({},vendetta.metro);

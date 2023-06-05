@@ -1,1 +1,1 @@
-(function(e,n){"use strict";const{default:{setShouldSyncAppearanceSettings:t},saveClientTheme:o}=n.findByProps("saveClientTheme"),a=[o({backgroundGradientPresetId:3,theme:"dark"})];t(!1);const d=function(){for(const r of a)r()};return e.onUnload=d,e})({},vendetta.metro);
+(function(n,e){"use strict";const{default:{setShouldSyncAppearanceSettings:t},saveClientTheme:o}=e.findByProps("saveClientTheme"),s=[setTimeout(function(){o({backgroundGradientPresetId:3})},0)];t(!1);const a=function(){for(const c of s)c()};return n.onUnload=a,n})({},vendetta.metro);
